@@ -4,4 +4,4 @@
 Iterated i and j such that when the value at their indexes equals the target,they get pushed back into the answer(arr) vector and that is returned as the answer.
 
 ## Proof of Acceptance
-![Accepted Solution](./Day1_SS.png)
+![Accepted Solution](./leetcodessq2.png)
