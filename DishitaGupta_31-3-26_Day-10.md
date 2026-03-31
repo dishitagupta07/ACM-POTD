@@ -4,4 +4,4 @@
 ## Brief Description
 Used two pointers and iterated them as such that the fast pointer runs double the speed of slow pointer so when fast reaches the end,slow reaches the middle.
  
-![Accepted Solution](./image/leetcodessq10.png)
+![Accepted Solution](./images/leetcodessq10.png)
