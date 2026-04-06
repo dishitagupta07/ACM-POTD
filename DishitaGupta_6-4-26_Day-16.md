@@ -36,3 +36,6 @@ public:
         return inStack.empty() && outStack.empty();
     }
 };
+
+## Proof of Acceptance
+![Accepted Solution](./images/leetcodessq16.png)
